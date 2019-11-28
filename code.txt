@@ -8,4 +8,10 @@ all the best
 
 
 
-checking ssh key files
+checking ssh key file
+
+
+
+checking the http code
+
+
